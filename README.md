@@ -1,18 +1,31 @@
-# My-SpaceBoost-Game
+# My-Atmospheric-Platformer-Game
 
-https://nocturna1.itch.io/sun-temple
+# Sun Temple
 
-This game is a 2.5D game that puts its main focus on core flight mechanics and the vector motions of the obstacles. To move the obstacles, I used sinusoidal calculations to serve as an oscillator. In this game, you play as an explorer and the aim is to maneuver a rocket ship by rotating and thrusting, as it flies through over numerous unique atmospheric levels through the ruins of Sun Temple.
+## Link: https://nocturna1.itch.io/sun-temple
 
-**CONTROLS**
+## Game Description:
 
-A & D - Move Rocket
+Explore the ruins of Sun Temple in this atmospheric 2.5D platformer.
+You are a small species of alien explorers to travel the Earth and search for its mysteries. Due to your size and advanced technology, the humans have not discovered your presence. 
+During your adventures, you have found the abandoned Sun Temple and are now searching for its treasures. 
 
-SpaceBar - Thrust Rocket
+### How To Play:
 
-P - Pause
-**INFO**
+* Collect the coins and avoid the obstacles.
+* A, D - Rotate left and right
+* Spacebar - Thrust rocket ship forward
 
-There are 4 levels to this game. 
+### Credits:
 
-You play as an alien explorer species and the aim is to maneuver an alien rocket ship by rotating and thrusting, as it flies through 3D obstacles.
+* Lost Temple Pack
+* DaFonts Fancy Pack
+* Low Poly Foliage Pack
+* Low Poly Rocket Pack
+* Low Poly Coin Pack
+
+I made this game using only free assets from the Unity Asset Store :)
+
+### Tags: 
+
+#adventure #action #platformer #Unity #3D #25D #explore #fastpaced #challenging #rocketship #puzzle #strategy #other #scifi #temple #avoidance #obstacles #ruins #collecting
