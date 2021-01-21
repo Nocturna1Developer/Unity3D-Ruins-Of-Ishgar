@@ -1,4 +1,4 @@
-# My-Atmospheric-Platformer-Game
+# Unity3D-Atmospheric-Platformer-Game
 
 # Sun Temple
 
