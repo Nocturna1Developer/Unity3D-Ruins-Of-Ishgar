@@ -1,6 +1,6 @@
 # Unity3D-Atmospheric-Platformer-Game
 
-# Sun Temple
+# Ruins of Ishgar
 
 ## Link: https://nocturna1.itch.io/sun-temple
 
