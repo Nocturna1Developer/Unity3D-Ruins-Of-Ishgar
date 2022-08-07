@@ -2,7 +2,7 @@
 
 # Ruins of Ishgar
 
-## Link: https://nocturna1.itch.io/sun-temple
+## Link: https://nocturna1.itch.io/the-ruins-of-ishgar
 
 ## Game Description:
 
