@@ -1,5 +1,3 @@
-# Unity3D-Ruins Of Ishgar
-
 # Ruins of Ishgar
 
 ## Link: https://nocturna1.itch.io/the-ruins-of-ishgar
