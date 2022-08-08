@@ -22,7 +22,6 @@ During your adventures, you have found the abandoned Sun Temple and are now sear
 * DaFonts Fancy Pack
 * Low Poly Foliage Pack
 * Low Poly Rocket Pack
-* Low Poly Coin Pack
 
 I made this game using only free assets from the Unity Asset Store :)
 
