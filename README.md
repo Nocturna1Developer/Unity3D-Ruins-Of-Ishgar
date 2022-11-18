@@ -24,7 +24,3 @@ During your adventures, you have found the abandoned Sun Temple and are now sear
 * Low Poly Rocket Pack
 
 I made this game using only free assets from the Unity Asset Store :)
-
-### Tags: 
-
-#adventure #action #platformer #Unity #3D #25D #explore #fastpaced #challenging #rocketship #puzzle #strategy #other #scifi #temple #avoidance #obstacles #ruins #collecting
