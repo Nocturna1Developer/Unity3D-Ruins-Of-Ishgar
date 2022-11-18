@@ -1,6 +1,8 @@
 # Ruins of Ishgar
 
-## Link: https://nocturna1.itch.io/the-ruins-of-ishgar
+## PLAY HERE: https://nocturna1.itch.io/the-ruins-of-ishgar
+
+## WATCH HERE: https://www.youtube.com/watch?v=kP7kunFiuAQ&list=PLs_4rBValRlRsv5RgWV-eRb6QP06JnjH5&index=9&ab_channel=NOKTURNALGAMEDEV 
 
 ## Game Description:
 
